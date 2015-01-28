@@ -1,29 +1,19 @@
-# Maven
+# Takari Target Platform Demo
 
-Maven is available under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.txt)
+This is a fork of Maven 3 source tree with basic build target platform configuration.
 
-- [Maven Issue Tracker](http://jira.codehaus.org/browse/MNG)
-- [Maven Wiki](https://cwiki.apache.org/confluence/display/MAVEN/Index)
-- [Building Maven](http://maven.apache.org/guides/development/guide-building-m2.html)
-- [Running Core ITs](http://maven.apache.org/core-its/core-it-suite/)
+# Target Platform Editor
 
-## Bootstrapping Basics
+## Prerequisites
 
-If you want to bootstrap Maven, you'll need:
+* Eclipse 4.4/Luna SR1 or 4.5/Mars M5+ SDK, download from http://download.eclipse.org/eclipse/downloads/
+* Takari TEAM Eclipse Extensions, install from https://repository.takari.io/content/sites/m2e.extras/takari-team/0.1.0/N/LATEST/
+* Takari Build Target Platform Editor, install from https://repository.takari.io/content/sites/m2e.extras/m2eclipse-takari-targetplatform/0.1.0/N/LATEST/
 
-- Java 1.6+
-- Ant 1.8 or later
+## Eclipse workspace setup
 
-First, give Ant a location into which the completed Maven distro should be installed:
+* Import Takari Target Platform Demo, i.e. this project, using `Existing Maven Projects` Eclipse import wizard
 
-```
-export M2_HOME=$HOME/apps/maven/apache-maven-3.2.x-SNAPSHOT
-```
+## Usage
 
-Then, run Ant:
-
-```
-ant
-```
-
-Once the build completes, you should have a new Maven distro ready to roll in your $M2_HOME directory!
+* Right-click on target-platform.xml, Open With Other..., Target Platform Editor

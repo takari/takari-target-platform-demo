@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<target-platform>
+  <gav g="aopalliance" a="aopalliance" v="1.0">
+    <artifact e="jar" sha1="0235ba8b489512805ac13a8f9ea77a1ca5ebe3e8" />
+    <artifact e="pom" sha1="5128a2b0efbba460a1178d07773618e0986ea152" />
+  </gav>
+  <gav g="ch.qos.logback" a="logback-classic" v="1.0.7">
+    <artifact e="jar" sha1="7c56c1e6000fa1c2e71b88b09435d9a5710b8d66" />
+    <artifact e="pom" sha1="71334e0c2cf9656258c96c024f6d9d845cad4a2f" />
+  </gav>
+  <gav g="ch.qos.logback" a="logback-core" v="1.0.7">
+    <artifact e="jar" sha1="df9279b212f62a7bb96e645e643eb5c4b675ee64" />
+    <artifact e="pom" sha1="b47f0ab1fb59f86ef0a9ac2b1d801cd6fc72621e" />
+  </gav>
+  <gav g="ch.qos.logback" a="logback-parent" v="1.0.7">
+    <artifact e="pom" sha1="b08772d7a3305c4890e093d6a75ddcc51b53c5ef" />
+  </gav>
+  <gav g="com.google.guava" a="guava" v="18.0">
+    <artifact e="jar" sha1="cce0823396aa693798f8882e64213b1772032b09" />
+    <artifact e="pom" sha1="2ec12f8d27a64e970b8be0fbd1d52dfec51cd41c" />
+  </gav>
+  <gav g="com.google.guava" a="guava-parent" v="18.0">
+    <artifact e="pom" sha1="5398932a9ef2828eb9fc4f01e8d6cac626c219d2" />
+  </gav>
+  <gav g="commons-cli" a="commons-cli" v="1.2">
+    <artifact e="jar" sha1="2bf96b7aa8b611c177d329452af1dc933e14501c" />
+    <artifact e="pom" sha1="e1b71e4b511c3c63f8b19d0302fe1d1c6e79035a" />
+  </gav>
+  <gav g="commons-io" a="commons-io" v="2.2">
+    <artifact e="jar" sha1="83b5b8a7ba1c08f9e8c8ff2373724e33d3c1e22a" />
+    <artifact e="pom" sha1="1ef24807b2eaf9d51b5587710878146d630cc855" />
+  </gav>
+  <gav g="commons-jxpath" a="commons-jxpath" v="1.3">
+    <artifact e="jar" sha1="c22d7d0f0f40eb7059a23cfa61773a416768b137" />
+    <artifact e="pom" sha1="5e055fca16d713557023ff042f49eb365938c683" />
+  </gav>
+  <gav g="commons-lang" a="commons-lang" v="2.6">
+    <artifact e="jar" sha1="0ce1edb914c94ebc388f086c6827e8bdeec71ac2" />
+    <artifact e="pom" sha1="347d60b180fa80e5699d8e2cb72c99c93dda5454" />
+  </gav>
+  <gav g="javax.annotation" a="jsr250-api" v="1.0">
+    <artifact e="jar" sha1="5025422767732a1ab45d93abfea846513d742dcf" />
+    <artifact e="pom" sha1="828184cb963d953865b5941e416999e376b1c82a" />
+  </gav>
+  <gav g="javax.enterprise" a="cdi-api" v="1.0">
+    <artifact e="jar" sha1="44c453f60909dfc223552ace63e05c694215156b" />
+    <artifact e="pom" sha1="b79b64c2b1cd6ddc1663f9f48dbf527262a2c3e5" />
+  </gav>
+  <gav g="javax.inject" a="javax.inject" v="1">
+    <artifact e="jar" sha1="6975da39a7040257bd51d21a231b76c915872d38" />
+    <artifact e="pom" sha1="b8e00a8a0deb0ebef447570e37ff8146ccd92cbe" />
+  </gav>
+  <gav g="junit" a="junit" v="4.11">
+    <artifact e="jar" sha1="4e031bb61df09069aeb2bffb4019e7a5034a4ee0" />
+    <artifact e="pom" sha1="cddf7490ffe839978cf5d6c944c01f2a8cb70a49" />
+  </gav>
+  <gav g="org.apache" a="apache" v="14">
+    <artifact e="pom" sha1="5c7956a91f3faaa9534cdc2b571c90bde2235157" />
+  </gav>
+  <gav g="org.apache" a="apache" v="15">
+    <artifact e="pom" sha1="95c70374817194cabfeec410fe70c3a6b832bafe" />
+  </gav>
+  <gav g="org.apache" a="apache" v="4">
+    <artifact e="pom" sha1="602b647986c1d24301bc3d70e5923696bc7f1401" />
+  </gav>
+  <gav g="org.apache" a="apache" v="7">
+    <artifact e="pom" sha1="a5f679b14bb06a3cb3769eb04e228c8b9e12908f" />
+  </gav>
+  <gav g="org.apache" a="apache" v="9">
+    <artifact e="pom" sha1="de55d73a30c7521f3d55e8141d360ffbdfd88caa" />
+  </gav>
+  <gav g="org.apache.commons" a="commons-parent" v="11">
+    <artifact e="pom" sha1="3f29657e1e3d6856344728ddbcf696477e943d59" />
+  </gav>
+  <gav g="org.apache.commons" a="commons-parent" v="17">
+    <artifact e="pom" sha1="84bc2f457fac92c947cde9c15c81786ded79b3c1" />
+  </gav>
+  <gav g="org.apache.commons" a="commons-parent" v="24">
+    <artifact e="pom" sha1="dbb7913f93b279ef889f6bad288b82dae58df237" />
+  </gav>
+  <gav g="org.apache.maven" a="maven-parent" v="24">
+    <artifact e="pom" sha1="277cf98c25de4d7512aa6403635810c1018e82b0" />
+  </gav>
+  <gav g="org.apache.maven" a="maven-parent" v="25">
+    <artifact e="pom" sha1="2e3d7a4d43a1103612cca66127ce6381e8ef85c9" />
+  </gav>
+  <gav g="org.apache.maven.wagon" a="wagon" v="2.8">
+    <artifact e="pom" sha1="2d6fb3443c2443824455c87382e0329345ebc3d8" />
+  </gav>
+  <gav g="org.apache.maven.wagon" a="wagon-file" v="2.8">
+    <artifact e="jar" sha1="adc8ba566b2c90cd3abfbf645f6b7e708ceb3842" />
+    <artifact e="pom" sha1="dd5f8db5d701e9de6baecaa52ee477b8fcaf5a5d" />
+  </gav>
+  <gav g="org.apache.maven.wagon" a="wagon-http" v="2.8">
+    <artifact e="pom" sha1="968d1ebfb6e42d5576a2f0e6f611822ca3862714" />
+    <artifact e="jar" c="shaded" sha1="b572007a07023adf7ecbdb7fc2d572bf1bded20d" />
+  </gav>
+  <gav g="org.apache.maven.wagon" a="wagon-http-shared" v="2.8">
+    <artifact e="jar" sha1="218b526bafd7f16c172e8bf16dbd6f6f8fe343ca" />
+    <artifact e="pom" sha1="97cf604e3117d1cb3310aca052dd8b99af56caaa" />
+  </gav>
+  <gav g="org.apache.maven.wagon" a="wagon-provider-api" v="2.8">
+    <artifact e="jar" sha1="1c09a112989f7a9a21b130a21881fd0fff55100c" />
+    <artifact e="pom" sha1="32f6879e9422961de2816e37239dcad211c32ec9" />
+  </gav>
+  <gav g="org.apache.maven.wagon" a="wagon-providers" v="2.8">
+    <artifact e="pom" sha1="861f65ef4479c79642baa8679f29e15046c99fc5" />
+  </gav>
+  <gav g="org.codehaus.plexus" a="plexus" v="2.0.7">
+    <artifact e="pom" sha1="f6ee62f8157f273757b8ffda59714a6a279a174d" />
+  </gav>
+  <gav g="org.codehaus.plexus" a="plexus" v="3.3.1">
+    <artifact e="pom" sha1="f081c65405b2d5e403c9d57e791b23f613966322" />
+  </gav>
+  <gav g="org.codehaus.plexus" a="plexus-classworlds" v="2.5.2">
+    <artifact e="jar" sha1="4abb111bfdace5b8167db4c0ef74644f3f88f142" />
+    <artifact e="pom" sha1="a39bedbc3fa3652d3606821d7c21d80e900f57a0" />
+  </gav>
+  <gav g="org.codehaus.plexus" a="plexus-component-annotations" v="1.5.5">
+    <artifact e="jar" sha1="c72f2660d0cbed24246ddb55d7fdc4f7374d2078" />
+    <artifact e="pom" sha1="fd506865d5d083d8cef9fdbf525ad99fcc3416c1" />
+  </gav>
+  <gav g="org.codehaus.plexus" a="plexus-components" v="1.3.1">
+    <artifact e="pom" sha1="4daaf2af8e09587eb3837b80252473d6f423c0f7" />
+  </gav>
+  <gav g="org.codehaus.plexus" a="plexus-containers" v="1.5.5">
+    <artifact e="pom" sha1="cd786b660f8a4c1c520403a5fa04c7be45212b84" />
+  </gav>
+  <gav g="org.codehaus.plexus" a="plexus-interpolation" v="1.21">
+    <artifact e="jar" sha1="f92de59d295f16868001644acc21720f3ec9eb15" />
+    <artifact e="pom" sha1="af59eb04ba7e5a729837c4c6799ef4b80553a92e" />
+  </gav>
+  <gav g="org.codehaus.plexus" a="plexus-utils" v="3.0.20">
+    <artifact e="jar" sha1="e121ed37af8ee3928952f6d8a303de24e019aab0" />
+    <artifact e="pom" sha1="43537d18e657a7a965f8e9f71a3fc027927fdc5f" />
+  </gav>
+  <gav g="org.eclipse.aether" a="aether" v="1.0.2.v20150114">
+    <artifact e="pom" sha1="ec17511fdf4fe911e5b174b1490c2a1876657511" />
+  </gav>
+  <gav g="org.eclipse.aether" a="aether-api" v="1.0.2.v20150114">
+    <artifact e="jar" sha1="839f93a5213fb3e233b09bfd6d6b95669f7043c0" />
+    <artifact e="pom" sha1="f498b9a0d199a7f8ec407e880105fa3a8ff490f5" />
+  </gav>
+  <gav g="org.eclipse.aether" a="aether-connector-basic" v="1.0.2.v20150114">
+    <artifact e="jar" sha1="d55c03b16efc16f25e1fd9fe0f37878fddbeed68" />
+    <artifact e="pom" sha1="cef00fd7321f57ac337bb1a987e4d61556e12fa3" />
+  </gav>
+  <gav g="org.eclipse.aether" a="aether-impl" v="1.0.2.v20150114">
+    <artifact e="jar" sha1="f147539e6e60dfbda9ef7f6d750066170f61b7a1" />
+    <artifact e="pom" sha1="18f6926294a7592d64b067fa9802db14d77e5672" />
+  </gav>
+  <gav g="org.eclipse.aether" a="aether-spi" v="1.0.2.v20150114">
+    <artifact e="jar" sha1="8428dfa330107984f3e3ac05cc3ebd50b2676866" />
+    <artifact e="pom" sha1="d15f1d37ab739d349fe27c40167af7fc3fa60645" />
+  </gav>
+  <gav g="org.eclipse.aether" a="aether-transport-wagon" v="1.0.2.v20150114">
+    <artifact e="jar" sha1="1d1b79f566c8793058e4c4cd601c3f52783192c1" />
+    <artifact e="pom" sha1="a450b52fed5b23de36eb65396a113a1ce1c45837" />
+  </gav>
+  <gav g="org.eclipse.aether" a="aether-util" v="1.0.2.v20150114">
+    <artifact e="jar" sha1="d2d3c74a5210544b5cdce89a2c1d1c62835692d1" />
+    <artifact e="pom" sha1="05408a6dd910bf6ed5bf5e2ec95f4d12cd6336eb" />
+  </gav>
+  <gav g="org.eclipse.sisu" a="org.eclipse.sisu.inject" v="0.3.0.M1">
+    <artifact e="jar" sha1="702dd8cdca70b89f16073e3de062035d8ce2486c" />
+    <artifact e="pom" sha1="d5782c23ea484f3d546548409765ee050a5d08da" />
+  </gav>
+  <gav g="org.eclipse.sisu" a="org.eclipse.sisu.plexus" v="0.3.0.M1">
+    <artifact e="jar" sha1="5dd889c7c3fa83f24ab7435d94da2cfe0a16dedd" />
+    <artifact e="pom" sha1="6a7f88584a8d0137aead27bc744da91e7372b67d" />
+  </gav>
+  <gav g="org.eclipse.sisu" a="sisu-inject" v="0.3.0.M1">
+    <artifact e="pom" sha1="689232993d29957a6bd3e699866dfb5a088c6f99" />
+  </gav>
+  <gav g="org.eclipse.sisu" a="sisu-plexus" v="0.3.0.M1">
+    <artifact e="pom" sha1="d8339daafb812ce5631c882ff6132790de82ff4e" />
+  </gav>
+  <gav g="org.hamcrest" a="hamcrest-core" v="1.1">
+    <artifact e="jar" sha1="860340562250678d1a344907ac75754e259cdb14" />
+    <artifact e="pom" sha1="fe8b54d8729315853ee866322436df89aa8ab9ae" />
+  </gav>
+  <gav g="org.hamcrest" a="hamcrest-core" v="1.3">
+    <artifact e="jar" sha1="42a25dc3219429f0e5d060061f71acb49bf010a0" />
+    <artifact e="pom" sha1="872e413497b906e7c9fa85ccc96046c5d1ef7ece" />
+  </gav>
+  <gav g="org.hamcrest" a="hamcrest-parent" v="1.1">
+    <artifact e="pom" sha1="31ef4ab73bb6d6173f46ecf92d6bd9047516c6ca" />
+  </gav>
+  <gav g="org.hamcrest" a="hamcrest-parent" v="1.3">
+    <artifact e="pom" sha1="80391bd32bfa4837a15215d5e9f07c60555c379a" />
+  </gav>
+  <gav g="org.jboss.weld" a="weld-api-bom" v="1.0">
+    <artifact e="pom" sha1="efa278108d83f051152fb414e78e231d8ce5b38e" />
+  </gav>
+  <gav g="org.jboss.weld" a="weld-api-parent" v="1.0">
+    <artifact e="pom" sha1="508700c6712082eece7e9e29a99286fd70593afa" />
+  </gav>
+  <gav g="org.jboss.weld" a="weld-parent" v="6">
+    <artifact e="pom" sha1="a6f50e34ff79bc4a5761a35b71d89b07a1d051ec" />
+  </gav>
+  <gav g="org.jsoup" a="jsoup" v="1.7.2">
+    <artifact e="jar" sha1="d7e275ba05aa380ca254f72d0c0ffebaedc3adcf" />
+    <artifact e="pom" sha1="792173cdbcac540bbbd2b5a6a8a461b27285bc25" />
+  </gav>
+  <gav g="org.mockito" a="mockito-core" v="1.9.5">
+    <artifact e="jar" sha1="c3264abeea62c4d2f367e21484fbb40c7e256393" />
+    <artifact e="pom" sha1="a1046781210a5db88f8122a8db708df680ef7fc0" />
+  </gav>
+  <gav g="org.objenesis" a="objenesis" v="1.0">
+    <artifact e="jar" sha1="9b473564e792c2bdf1449da1f0b1b5bff9805704" />
+    <artifact e="pom" sha1="e7b3dff753f6935f2d287691ab3e8fd165290e4a" />
+  </gav>
+  <gav g="org.slf4j" a="slf4j-api" v="1.7.5">
+    <artifact e="jar" sha1="6b262da268f8ad9eff941b25503a9198f0a0ac93" />
+    <artifact e="pom" sha1="8bef62de94ecb16f574fadc01dcd3127ddb1a4da" />
+  </gav>
+  <gav g="org.slf4j" a="slf4j-parent" v="1.7.5">
+    <artifact e="pom" sha1="2955681f952b108824dfb16ca366f36f3cef7861" />
+  </gav>
+  <gav g="org.slf4j" a="slf4j-simple" v="1.7.5">
+    <artifact e="jar" sha1="4a950c50bbc67fdbc908190dc8e25d7a0251f74a" />
+    <artifact e="pom" sha1="aff1d3c9c033d6e5010a1db06f86228393550022" />
+  </gav>
+  <gav g="org.sonatype.forge" a="forge-parent" v="10">
+    <artifact e="pom" sha1="c24dc843444f348100c19ebd51157e7a5f61bfe7" />
+  </gav>
+  <gav g="org.sonatype.forge" a="forge-parent" v="38">
+    <artifact e="pom" sha1="1869421fb762c3de75b5f97386bfbee804842c09" />
+  </gav>
+  <gav g="org.sonatype.forge" a="forge-parent" v="4">
+    <artifact e="pom" sha1="564f266ea9323e57e246f0fca8f04f596663fb86" />
+  </gav>
+  <gav g="org.sonatype.forge" a="forge-parent" v="5">
+    <artifact e="pom" sha1="a557514263bbd4a6daef8f125ab80e78413292d3" />
+  </gav>
+  <gav g="org.sonatype.oss" a="oss-parent" v="7">
+    <artifact e="pom" sha1="46b8a785b60a2767095b8611613b58577e96d4c9" />
+  </gav>
+  <gav g="org.sonatype.plexus" a="plexus-cipher" v="1.7">
+    <artifact e="jar" sha1="51460409b6cdc2b828540c19c05691f89141edc2" />
+    <artifact e="pom" sha1="0102ce1285b96911b2505dc89d51bb48ab2b440d" />
+  </gav>
+  <gav g="org.sonatype.plexus" a="plexus-sec-dispatcher" v="1.3">
+    <artifact e="jar" sha1="dedc02034fb8fcd7615d66593228cb71709134b4" />
+    <artifact e="pom" sha1="b953c3a84a7d3f2a7f606e18c07ee38fb6766e3d" />
+  </gav>
+  <gav g="org.sonatype.sisu" a="sisu-guice" v="3.2.3">
+    <artifact e="pom" sha1="067a88af019f78ef3f26bc1111499224df5a2b97" />
+    <artifact e="jar" c="no_aop" sha1="6b8262f32ff7b60881aed3e7aa9d81fdb48330e9" />
+  </gav>
+  <gav g="org.sonatype.sisu.inject" a="guice-parent" v="3.2.3">
+    <artifact e="pom" sha1="e1174de7394fa7e47ac3ef0fc3ea1719be8d1984" />
+  </gav>
+  <gav g="org.sonatype.spice" a="spice-parent" v="12">
+    <artifact e="pom" sha1="e86b2d826f53093e27dc579bea3becbf1425d9ba" />
+  </gav>
+  <gav g="org.sonatype.spice" a="spice-parent" v="15">
+    <artifact e="pom" sha1="3cfa1d1f3113a8137fdc7b7a67f310abbed4a22d" />
+  </gav>
+  <gav g="org.sonatype.spice" a="spice-parent" v="17">
+    <artifact e="pom" sha1="7f500699ef371383492a4d6ee799b1a77ffd82cc" />
+  </gav>
+  <gav g="xmlunit" a="xmlunit" v="1.3">
+    <artifact e="jar" sha1="4ecf4c68036ae37d889cc1744208abbc42704fb2" />
+    <artifact e="pom" sha1="2970f4925746032414f1796a86da3654f251546a" />
+  </gav>
+</target-platform>
