@@ -18,7 +18,7 @@ This is a fork of Maven 3 source tree with basic build target platform configura
 
 We recorded a demo of the target platform editor a while back in a [Maven Developer Hangout][1] which might be useful to watch before trying the editor yourself:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jxeWmjUKNwQ?start=58&end=554" frameborder="0" allowfullscreen></iframe>
+<https://www.youtube.com/embed/jxeWmjUKNwQ?start=58&end=554>
 
 ## Usage
 
