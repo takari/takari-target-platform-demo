@@ -16,4 +16,14 @@ This is a fork of Maven 3 source tree with basic build target platform configura
 
 ## Usage
 
-* Right-click on target-platform.xml, Open With Other..., Target Platform Editor
+Right-click on target-platform.xml, Open With Other...
+
+![tp-step-0](tp-step-0.png) 
+
+And then select the Target Platform Editor
+
+![tp-step-1](tp-step-1.png) 
+
+When the `target-platform.xml` loads you should see the following:
+
+![tp-step-2](tp-step-2.png) 
